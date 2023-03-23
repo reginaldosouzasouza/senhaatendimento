@@ -1,0 +1,67 @@
+/*INICIO DO CABEÇALHO*/
+.texto {
+	font-weight: 700;
+	color: #003a5f;
+}
+
+section .whatzapp {
+	height: 30px;
+	width: 30px;
+}
+
+.texto h3 {
+	text-align: center;
+	font-size: 2rem;
+	
+}
+	
+/*cabecalho acaba aqui */	
+	
+/*INICIO DAS SENHAS */
+
+.senhaAtual{
+	text-align: center;
+	background-color: #003a5f;
+	color: white;
+	margin-top: 250px;
+}
+
+.senhaAtualTexto{
+	font-size: 65pt;
+	font-weight: 400;
+    margin-right: 500px;
+   
+}
+
+
+#senhaAtualNumero{
+	font-size: 100pt;
+	font-weight: 800;
+    margin-left: 250px;
+    margin-top: 10px;
+}
+/* .... FIM DAS SENHAS ATUAL .....*/
+
+/* ....... INICIO DA ULTIMA SENHA ....*/
+.ultimaSenha{
+	font-weight: 800;
+	text-align: center;
+	background-color: #ccc;
+	height: 130px;
+	margin-top: 20px;
+}
+
+#ultimaSenhaTexto{
+	font-size: 20px;
+	color: #a50;
+}
+
+#ultimaSenhaNumero{
+	font-size: 40px;
+	color: black;
+}
+
+audio{
+	display:none;
+}
+
